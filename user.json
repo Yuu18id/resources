@@ -1,0 +1,18 @@
+{
+    "data": [
+        {
+            "email": "test@mail.com",
+            "username": "test",
+            "password": "test123",
+            "favorites": [],
+            "birthday": ""
+        },
+        {
+            "email": "bayu@mail.com",
+            "username": "bayu",
+            "password": "bayu123",
+            "favorites": [],
+            "birthday": ""
+        }
+    ]
+}
