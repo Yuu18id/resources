@@ -1,0 +1,10 @@
+{
+  "data": [
+    {"id": 1, "novelId": 1, "title": "CH 1", "content": "Chapter 1"},
+    {"id": 2, "novelId": 2, "title": "CH 2", "content": "Chapter 2"},
+    {"id": 3, "novelId": 3, "title": "CH 3", "content": "Chapter 3"},
+    {"id": 4, "novelId": 4, "title": "CH 4", "content": "Chapter 4"},
+    {"id": 5, "novelId": 5, "title": "CH 5", "content": "Chapter 5"},
+    {"id": 6, "novelId": 6, "title": "CH 6", "content": "Chapter 6"},
+  ]
+}
